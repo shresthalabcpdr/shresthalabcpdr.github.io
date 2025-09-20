@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Shrestha Lab at CPDR
       image:
         filename: welcome.jpg
       text: |
