@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Shrestha Lab
 date: 2022-10-24
 type: landing
 
@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Shrestha Lab** at the **[Center for Prostate Disease Research (CPDR)](https://sites.google.com/usuhs.edu/cpdr)** focuses on elucidating the drivers of cancer progression and therapeutic resistance through innovative strategies in computational genomics and machine learning, with the goal of advancing personalized medicine and improving clinical outcomes for prostate cancer patients by understanding the complex interplay of the genome, transcriptome, proteome, and epigenome.
   
   - block: collection
     content:
