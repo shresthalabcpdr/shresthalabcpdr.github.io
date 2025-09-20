@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: We are under construction ...
-        content: 
+      - title: We are under construction!
+        content: stay tuned ...
         align: center
         background:
           image:
