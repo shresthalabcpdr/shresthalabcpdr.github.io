@@ -32,35 +32,30 @@ sections:
       title: |
         Shrestha Lab at CPDR
       image:
-        filename: welcome.jpg
+        filename: cpdr_vampus.jpg
       text: |
         <br>
         
         The **Shrestha Lab** at the **[Center for Prostate Disease Research (CPDR)](https://sites.google.com/usuhs.edu/cpdr)** focuses on elucidating the drivers of cancer progression and therapeutic resistance through innovative strategies in computational genomics and machine learning, with the goal of advancing personalized medicine and improving clinical outcomes for prostate cancer patients by understanding the complex interplay of the genome, transcriptome, proteome, and epigenome.
  
-  - block: hero
+  - block: features
     content:
-      text: |
-        <br>
-        
-        Our research will focus on the following three major avenues:
-          - **Develop** cutting-edge computational genomics and machine learning methods to unravel the complexities of cancer
-          - **Integrate & Analyze** complex multi-modal biological datasets to understand context-specific genome regulation in cancer
-          - **Translate** genomic insights to meaningful clinical applications for precision oncology
- 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        <br>
-        
-        Our research will focus on the following three major avenues:
-          - **Develop** cutting-edge computational genomics and machine learning methods to unravel the complexities of cancer
-          - **Integrate & Analyze** complex multi-modal biological datasets to understand context-specific genome regulation in cancer
-          - **Translate** genomic insights to meaningful clinical applications for precision oncology
+      title: "Amazing Features"
+      text: "Discover what makes our platform special"
+      items:
+        - name: "Fast Performance"
+          description: "Lightning-fast load times for better user experience"
+          icon: "bolt"
+        - name: "Easy to Use"
+          description: "Intuitive interface that anyone can master"
+          icon: "heart"
+        - name: "Secure"
+          description: "Enterprise-grade security built-in"
+          icon: "shield-check"
     design:
-      columns: '1'
+      columns: "3"
+      background:
+        color: "gray-50"
 
   - block: collection
     content:
