@@ -32,7 +32,7 @@ sections:
       title: |
         Shrestha Lab at CPDR
       image:
-        filename: cpdr_campus.jpg
+        filename: shrestha_lab_helix_dark_extended.png
         position: center
       text: |
         <br>
