@@ -46,7 +46,7 @@ sections:
       items:
         - name: "Fast Performance"
           description: "Lightning-fast load times for better user experience"
-          icon: "bolt"
+          icon: "icons8-development-94"
         - name: "Easy to Use"
           description: "Intuitive interface that anyone can master"
           icon: "heart"
