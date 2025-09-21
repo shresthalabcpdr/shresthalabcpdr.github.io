@@ -41,19 +41,21 @@ sections:
  
   - block: features
     content:
-      title: "Amazing Features"
-      text: "Discover what makes our platform special"
+      title: 
+      text: "Our research will focus on three major avenues"
       items:
-        - name: "Fast Performance"
-          description: "Lightning-fast load times for better user experience"
-          icon: "icons8-development-94"
+        - name: "Develop"
+          description: "Develop cutting-edge computational genomics and machine learning methods to unravel the complexities of cancer"
+          icon: "networkx-original"
           icon_pack: custom
-        - name: "Easy to Use"
-          description: "Intuitive interface that anyone can master"
-          icon: "heart"
-        - name: "Secure"
-          description: "Enterprise-grade security built-in"
-          icon: "shield-check"
+        - name: "Integrate & Analyze"
+          description: "Integrate & Analyze complex multi-modal biological datasets to understand context-specific genome regulation in cancer"
+          icon: "chartjs-original"
+          icon_pack: custom
+        - name: "Translate"
+          description: "Translate genomic insights to meaningful clinical applications for precision oncology"
+          icon: "jekyll-original"
+          icon_pack: custom
     design:
       columns: "3"
       background:
