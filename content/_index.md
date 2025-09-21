@@ -33,6 +33,7 @@ sections:
         Shrestha Lab at CPDR
       image:
         filename: cpdr_campus.jpg
+        position: center
       text: |
         <br>
         
