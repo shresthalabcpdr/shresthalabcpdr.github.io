@@ -32,7 +32,7 @@ sections:
       title: |
         Shrestha Lab at CPDR
       image:
-        filename: cpdr_vampus.jpg
+        filename: cpdr_campus.jpg
       text: |
         <br>
         
