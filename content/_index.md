@@ -10,12 +10,12 @@ sections:
       slides:
       - title: We are under construction!
         content: stay tuned ...
-        align: center
+        align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: shrestha_lab_helix_dark_extended.png
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: right
           color: '#666'
     design:
@@ -32,7 +32,7 @@ sections:
       title: |
         Shrestha Lab at CPDR
       image:
-        filename: shrestha_lab_helix_dark_extended.png
+        filename: welcome.jpg
         position: center
       text: |
         <br>
@@ -41,7 +41,7 @@ sections:
  
   - block: features
     content:
-      title: 
+      title: Our Research Arms
       text: "Our research will focus on three major avenues"
       items:
         - name: "Develop"
