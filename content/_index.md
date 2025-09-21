@@ -15,7 +15,7 @@ sections:
           image:
             filename: shrestha_lab_helix_dark_extended.png
             filters:
-              brightness: 0.5
+              brightness: 0.3
           position: right
           color: '#666'
     design:
@@ -89,7 +89,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: cpdr_campus.jpg
           filters:
             brightness: 1
           parallax: false
