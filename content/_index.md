@@ -47,6 +47,7 @@ sections:
         - name: "Fast Performance"
           description: "Lightning-fast load times for better user experience"
           icon: "icons8-development-94"
+          icon_pack: custom
         - name: "Easy to Use"
           description: "Intuitive interface that anyone can master"
           icon: "heart"
