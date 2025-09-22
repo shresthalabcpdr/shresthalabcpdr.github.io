@@ -37,7 +37,7 @@ sections:
       text: |
         <br>
         
-        The **Shrestha Lab** at the **[Center for Prostate Disease Research (CPDR)](https://sites.google.com/usuhs.edu/cpdr)** focuses on elucidating the drivers of cancer progression and therapeutic resistance through innovative strategies in computational genomics and machine learning, with the goal of advancing personalized medicine and improving clinical outcomes for prostate cancer patients by understanding the complex interplay of the genome, transcriptome, proteome, and epigenome.
+        The **Shrestha Lab** is a computational cancer genomics and data science research group at the **[Center for Prostate Disease Research (CPDR)](https://sites.google.com/usuhs.edu/cpdr)**. We focuson elucidating the drivers of cancer progression and therapeutic resistance through innovative strategies in computational genomics and machine learning, with the goal of advancing personalized medicine and improving clinical outcomes for prostate cancer patients by understanding the complex interplay of the genome, transcriptome, proteome, and epigenome.
  
   - block: features
     content:
