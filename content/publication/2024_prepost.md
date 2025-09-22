@@ -1,53 +1,38 @@
 ---
-title: "Genome-scale CRISPR screens identify PTGES3 as a direct modulator of AR function in advanced prostate cancer"
+title: "Genomic and transcriptomic features of androgen receptor signaling inhibitor resistance in metastatic castration-resistant prostate cancer"
 authors:
-- H Li
-- JE Melnyk
-- BXH Fu
-- admin
-- M Zhang
-- M Sjostrom
-- S Feng
-- JA Anderson
-- W Han
-- LN Chesner
-- HJ Shin
+- X Zhu
 - T Farsh
-- HJ Suarez
-- S Nath
-- J Chou
-- R Das
-- EA Egusa
-- M Calvert
-- A Kishishita
-- A Barpanda
-- J Zhu
-- A Maheshwari
-- WS Chen
-- M Alshalalfa
-- A Winters
-- JT Hua
+- D Vis
+- I Yu
+- H Li
 - T Liu
-- E Davicioni
-- AP Witta
-- BA Stohr
-- J Siddiqui
-- B Huang
+- M Sjostrom
+- admin
+- J Kneppers
+- T Severson
+- MmZhang
+- A Lundberg
+- TM Rodriguez
+- AS Weinstein
+- A Foye
+- N Mehra
+- RR Aggarwal
+- AM Bergman
 - EJ Small
-- KM Shokat
-- P Nelson
+- NA Lack
+- W Zwart
 - DA Quigley
-- EV Wasmuth
-- LA Gilbert
+- MS Heijden
 - FY Feng
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2025-07-28T00:00:00Z"
-doi: "10.1101/2025.05.29.656244"
+date: "2024-08-13T00:00:00Z"
+doi: "10.1172/JCI178604"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-07-28T00:00:00Z"
+publishDate: "2024-08-13T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -55,8 +40,8 @@ publishDate: "2025-07-28T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Genetics* (Accepted)"
-publication_short: "*Nature Genetics* (Accepted)"
+publication: "*The Journal of Clinical Investigation*"
+publication_short: "*The Journal of Clinical Investigation*"
 
 abstract: 
 
@@ -70,12 +55,10 @@ tags:
 featured: false
 
 links:
-# - name: PubMed
-#   url: https://pubmed.ncbi.nlm.nih.gov/39652470
-# - name: Journal
-#   url: https://doi.org/10.1158/2159-8290.CD-24-0559
-  - name: Preprint
-    url: https://doi.org/10.1101/2025.05.29.656244
+ - name: PubMed
+   url: https://pubmed.ncbi.nlm.nih.gov/39352383
+ - name: Journal
+   url: https://doi.org/10.1172/JCI178604
 # url_pdf: 
 # url_code: 
 # url_dataset: 

@@ -1,53 +1,29 @@
 ---
-title: "Genome-scale CRISPR screens identify PTGES3 as a direct modulator of AR function in advanced prostate cancer"
+title: "Integrative analysis of ultra-deep RNA-seq reveals alternative promoter usage as a mechanism of activating oncogenic programmes during prostate cancer progression"
 authors:
-- H Li
-- JE Melnyk
-- BXH Fu
-- admin
 - M Zhang
 - M Sjostrom
-- S Feng
-- JA Anderson
-- W Han
-- LN Chesner
-- HJ Shin
-- T Farsh
-- HJ Suarez
-- S Nath
-- J Chou
-- R Das
-- EA Egusa
-- M Calvert
-- A Kishishita
-- A Barpanda
-- J Zhu
-- A Maheshwari
-- WS Chen
-- M Alshalalfa
-- A Winters
-- JT Hua
-- T Liu
-- E Davicioni
-- AP Witta
-- BA Stohr
-- J Siddiqui
-- B Huang
+- X Cui
+- A Foye
+- K Farh
+- admin
+- A Lundberg
+- HX Dang
+- PG Febbo
+- R Aggarwal
+- J Alkumal
 - EJ Small
-- KM Shokat
-- P Nelson
-- DA Quigley
-- EV Wasmuth
-- LA Gilbert
+- CA Maher
 - FY Feng
+- DA Quigley
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2025-07-28T00:00:00Z"
-doi: "10.1101/2025.05.29.656244"
+date: "2024-06-09T00:00:00Z"
+doi: "10.1038/s41556-024-01438-3"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-07-28T00:00:00Z"
+publishDate: "2024-06-09T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -55,8 +31,8 @@ publishDate: "2025-07-28T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Genetics* (Accepted)"
-publication_short: "*Nature Genetics* (Accepted)"
+publication: "*Nature Cell Biology*"
+publication_short: "*Nature Cell Biology*"
 
 abstract: 
 
@@ -70,14 +46,12 @@ tags:
 featured: false
 
 links:
-# - name: PubMed
-#   url: https://pubmed.ncbi.nlm.nih.gov/39652470
-# - name: Journal
-#   url: https://doi.org/10.1158/2159-8290.CD-24-0559
-  - name: Preprint
-    url: https://doi.org/10.1101/2025.05.29.656244
-# url_pdf: 
-# url_code: 
+ - name: PubMed
+   url: https://pubmed.ncbi.nlm.nih.gov/38871824
+ - name: Journal
+   url: https://doi.org/10.1038/s41556-024-01438-3
+url_pdf: 
+url_code: https://github.com/DavidQuigley/WCDT_alternative_promoter
 # url_dataset: 
 # url_poster: 
 # url_project: 
