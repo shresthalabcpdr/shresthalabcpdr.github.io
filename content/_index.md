@@ -82,10 +82,10 @@ sections:
 
   - block: markdown
     content:
-      title: 
+      title: Our Affiliations
       subtitle: ''
       text:
-      position: top
+      position: top center
       color: "#000000"
     design:
       columns: '1'
