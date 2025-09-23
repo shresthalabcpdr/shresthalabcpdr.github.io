@@ -96,7 +96,7 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: 1500px
+          size: 1200px
           text_color_light: false
 
 ---
