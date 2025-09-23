@@ -98,5 +98,7 @@ sections:
           position: center
           size: 1200px
           text_color_light: false
+        spacing:
+          padding: ['20px', '20px', '20px', '20px']
 
 ---
