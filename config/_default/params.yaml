@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/shrestha-lab-cpdr/shrestha-lab-cpdr.github.io'
+    url: 'https://github.com/shresthalabcpdr/shresthalabcpdr.github.io'
     content_dir: content
     branch: main
   avatar:
