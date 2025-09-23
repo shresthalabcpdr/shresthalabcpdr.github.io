@@ -106,6 +106,8 @@ sections:
       title: Our Affiliations
       subtitle: ''
       text:
+      position: top
+      color: "#000000"
     design:
       columns: '1'
       background:
