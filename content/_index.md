@@ -100,6 +100,29 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
+  - block: features
+    content:
+      title: Affiliations
+      text: ""
+      items:
+        - name: ""
+          description: ""
+          icon: "cpdr"
+          icon_pack: custom
+        - name: "Integrate & Analyze"
+          description: "Integrate & Analyze complex multi-modal biological datasets to understand context-specific genome regulation in cancer"
+          icon: "chartjs-original"
+          icon_pack: custom
+        - name: "Translate"
+          description: "Translate genomic insights to meaningful clinical applications for precision oncology"
+          icon: "jekyll-original"
+          icon_pack: custom
+    design:
+      columns: "3"
+      background:
+        color: "gray-50"
+
+
   - block: markdown
     content:
       title:
