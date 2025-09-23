@@ -80,7 +80,6 @@ sections:
       view: card
       columns: '1'
 
-
   - block: markdown
     content:
       title: 
@@ -97,40 +96,7 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: cover
+          size: 200px
           text_color_light: true
 
-
-
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: cpdr_campus.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
-
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
