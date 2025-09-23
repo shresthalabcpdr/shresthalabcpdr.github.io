@@ -20,9 +20,9 @@ main:
     url: post
     weight: 50
   - name: Events
-    url: event
+    url: events
     weight: 60
-  - name: Vacancy
+  - name: Join us
     url: vacancy
     weight: 70
   - name: Contact
