@@ -82,8 +82,8 @@ sections:
 
   - block: markdown
     content:
-      title: Our Affiliations
-      subtitle: ''
+      title: 
+      subtitle: 
       text:
       position: top
       color: "#000000"
