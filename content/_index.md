@@ -115,7 +115,7 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: 400px
+          size: 1028px
           text_color_light: true
 
 
