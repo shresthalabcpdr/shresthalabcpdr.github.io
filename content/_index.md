@@ -85,7 +85,7 @@ sections:
       title: Our Affiliations
       subtitle: ''
       text:
-      position: top center
+      position: top
       color: "#000000"
     design:
       columns: '1'
