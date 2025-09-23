@@ -79,7 +79,30 @@ sections:
     design:
       view: card
       columns: '1'
-  
+
+
+  - block: markdown
+    content:
+      title: 
+      subtitle: ''
+      text:
+      position: top
+      color: "#000000"
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: org_logo_combo.png
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+
+
+
+
   - block: markdown
     content:
       title:
@@ -100,25 +123,6 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-
-  - block: markdown
-    content:
-      title: Our Affiliations
-      subtitle: ''
-      text:
-      position: top
-      color: "#000000"
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: org_logo_combo.png
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: 1028px
-          text_color_light: true
 
 
   - block: markdown
