@@ -1,14 +1,14 @@
 ---
 # Display name
-title: ABC XYZ
+title: You
 
 # Full name (for SEO)
-first_name: ABC
-last_name: XYZ
+first_name: You
+last_name: 
 
 # Username (this should match the folder name)
 authors:
-  - abcxyz
+  - youb
 
 # Is this the primary user of the site?
 superuser: false
