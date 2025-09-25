@@ -63,7 +63,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest News
+      title: Featured Publications
       subtitle:
       text:
       count: 5
@@ -75,7 +75,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: publications
     design:
       view: card
       columns: '1'
