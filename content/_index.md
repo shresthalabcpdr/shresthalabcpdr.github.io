@@ -70,7 +70,7 @@ sections:
         folders:
           - publications
         publication_type: 'article'
-        exclude_featured: false
+        include_featured: true
     design:
       view: compact
       columns: '1'
