@@ -64,6 +64,20 @@ sections:
   - block: collection
     content:
       title: Featured Publications
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publications
+        publication_type: 'article'
+        exclude_featured: false
+    design:
+      view: compact
+      columns: '1'
+
+  - block: collection
+    content:
+      title: Featured Publications
       subtitle:
       text:
       count: 5

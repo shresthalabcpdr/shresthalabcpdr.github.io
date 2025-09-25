@@ -1,5 +1,5 @@
 ---
-title: "Genome-scale CRISPR screens identify PTGES3 as a direct modulator of AR function in advanced prostate cancer"
+title: "Extracellular vesicles-mediated delivery of CRISPR machinery silences androgen receptor in castration-resistant prostate cancer cells"
 authors:
 - C Ye
 - Y Ma
