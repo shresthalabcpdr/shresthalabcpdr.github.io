@@ -61,39 +61,7 @@ sections:
       background:
         color: "gray-50"
 
-  - block: collection
-    content:
-      title: Featured Publications
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publications
-        publication_type: 'article'
-        featured: true
-    design:
-      view: compact
-      columns: '1'
-
-  - block: collection
-    content:
-      title: Featured Publications
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: publications
-    design:
-      view: card
-      columns: '1'
-
+  
   - block: markdown
     content:
       title: 
