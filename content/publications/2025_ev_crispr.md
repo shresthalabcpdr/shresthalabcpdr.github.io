@@ -12,11 +12,11 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2025-09-20T00:00:00Z"
-doi: ""
+date: "2025-10-01T00:00:00Z"
+doi: "10.1016/j.ymthe.2025.09.045"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-09-20T00:00:00Z"
+publishDate: "2025-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,8 +25,8 @@ publishDate: "2025-09-20T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Molecular Therapy* (Accepted)"
-publication_short: "*Molecular Therapy* (Accepted)"
+publication: "*Molecular Therapy*"
+publication_short: "*Molecular Therapy*"
 
 abstract: 
 
@@ -40,12 +40,10 @@ tags:
 featured: false
 
 links:
-# - name: PubMed
-#   url: https://pubmed.ncbi.nlm.nih.gov/39652470
-# - name: Journal
-#   url: https://doi.org/10.1158/2159-8290.CD-24-0559
-  - name: Preprint
-    url: https://doi.org/10.1101/2025.05.29.656244
+ - name: PubMed
+   url: https://pubmed.ncbi.nlm.nih.gov/41017153
+ - name: Journal
+   url: https://doi.org/10.1016/j.ymthe.2025.09.045
 # url_pdf: 
 # url_code: 
 # url_dataset: 
