@@ -1,5 +1,5 @@
 ---
-title: Circulating Tumor DNA (ctDNA) & Fragmentiomics
+title: Circulating Tumor DNA (ctDNA) & Fragmentomics
 summary: We to establish ctDNA fragmentomics as a robust, non-invasive approach for advancing precision oncology.
 tags:
   - Cancer
@@ -32,5 +32,5 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
-## Circulating Tumor DNA (ctDNA) & Fragmentiomics </br>
+## Circulating Tumor DNA (ctDNA) & Fragmentomics </br>
 Circulating DNA refers to fragmented DNA molecules found in bodily fluids such as blood plasma. Tumors release circulating tumor DNA (ctDNA) into the bloodstream, which encodes genomic and epigenomic information reflective of tumor biology. Our research focuses on ctDNA fragmentomics - the study of fragmentation patterns of ctDNA. We develop cutting-edge computational tools and machine learning algorithms to harness the power of ctDNA fragmentomics for various clinical applications, including early cancer detection, monitoring cancer progression and response to therapy, and identifying treatment resistance in advanced cancers. This work seeks to establish ctDNA fragmentomics as a robust, non-invasive approach for advancing precision oncology.
