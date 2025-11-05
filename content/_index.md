@@ -45,15 +45,15 @@ sections:
       text: "Our research will focus on three major avenues"
       items:
         - name: "Develop"
-          description: "Algorithm Development: Develop cutting-edge computational genomics and machine learning methods to unravel the complexities of cancer"
+          description: "**Algorithm Development**: Develop cutting-edge computational genomics and machine learning methods to unravel the complexities of cancer"
           icon: "networkx-original"
           icon_pack: custom
         - name: "Mine"
-          description: "Data Mining & Analytics: Mine, Integrate & Analyze complex multi-modal biological datasets to understand context-specific genome regulation in cancer"
+          description: "**Data Mining & Analytics**: Mine, Integrate & Analyze complex multi-modal biological datasets to understand context-specific genome regulation in cancer"
           icon: "chartjs-original"
           icon_pack: custom
         - name: "Translate"
-          description: "Tranaslational Bioinformatics: Translate genomic insights to meaningful clinical applications for precision oncology"
+          description: "**Translational Bioinformatics**: Translate genomic insights to meaningful clinical applications for precision oncology"
           icon: "jekyll-original"
           icon_pack: custom
     design:
