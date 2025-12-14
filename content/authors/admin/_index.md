@@ -74,6 +74,6 @@ user_groups:
   - Principal Investigator
 ---
 
-Computational Research Scientist III at [Center for Prostate Disease Research (CPDR)](https://sites.google.com/usuhs.edu/cpdr)\
-Assistant Professor at the [Department of Surgery](https://medschool.usuhs.edu/sur), [Uniformed Services University for Health Sciences(USUHS)](https://www.usuhs.edu/)\
-Adjunct Investigator, [Genitourinary Malignancies Branch (GMB)](https://ccr.cancer.gov/genitourinary-malignancies-branch), [National Cancer Institute (NCI)](https://www.cancer.gov/)\
+Computational Research Scientist III, [Center for Prostate Disease Research (CPDR)](https://sites.google.com/usuhs.edu/cpdr)\
+Assistant Professor, [Department of Surgery](https://medschool.usuhs.edu/sur), [Uniformed Services University for Health Sciences(USUHS)](https://www.usuhs.edu/)\
+Adjunct Investigator, [Genitourinary Malignancies Branch (GMB)](https://ccr.cancer.gov/genitourinary-malignancies-branch), [National Cancer Institute (NCI)](https://www.cancer.gov/)
