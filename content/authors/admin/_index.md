@@ -14,8 +14,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Uniformed Services University
-    url: ''
+  - name: CPDR, Uniformed Services University
+    url: https://sites.google.com/usuhs.edu/cpdr
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@cpdr.org'
+    link: 'mailto:rshrestha@cpdr.org'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/raunakms
@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: rshrestha<at>cpdr<dot>org
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -74,4 +74,6 @@ user_groups:
   - Principal Investigator
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Computational Research Scientist III at [Center for Prostate Disease Research (CPDR)](https://sites.google.com/usuhs.edu/cpdr)\
+Assistant Professor at the [Department of Surgery](https://medschool.usuhs.edu/sur), [Uniformed Services University for Health Sciences(USUHS)](https://www.usuhs.edu/)\
+Adjunct Investigator, [Genitourinary Malignancies Branch (GMB)](https://ccr.cancer.gov/genitourinary-malignancies-branch), [National Cancer Institute (NCI)](https://www.cancer.gov/)\
