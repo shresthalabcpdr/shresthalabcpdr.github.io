@@ -24,7 +24,13 @@ sections:
       directions: 
       office_hours:
       appointment_url: 
-      #contact_links:
+      contact_links:
+        - icon: twitter
+          icon_pack: fab
+          link: https://twitter.com/raunakms
+        - icon: linkedin
+          icon_pack: fab
+          link: https://www.linkedin.com/in/raunakms/          
       #  - icon: comments
       #    icon_pack: fas
       #    name: Discuss on Forum

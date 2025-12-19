@@ -56,6 +56,15 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/raunakms
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/raunakms/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Raunak_Shrestha
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-1144-1413        
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
