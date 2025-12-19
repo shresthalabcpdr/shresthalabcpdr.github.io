@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: 
-      email: rshrestha<at>cpdr.org
+      email: rshrestha{at}cpdr{dot}org
       phone: 
       address:
         street: 6720A Rockledge Drive, Suite 300
