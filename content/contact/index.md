@@ -53,13 +53,13 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
+  #- block: markdown
+    #content:
+    #  title:
+    #  subtitle: ''
+    #  text:
+    #design:
+      #columns: '1'
       #background:
       #  image: 
       #    filename: contact.jpg
@@ -69,7 +69,7 @@ sections:
       #    position: center
       #    size: cover
       #    text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      #spacing:
+      #  padding: ['20px', '0', '20px', '0']
+      #css_class: fullscreen
 ---
