@@ -65,14 +65,14 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-1144-1413        
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  # Link to a PDF of your resume/CV from the About widget.
+  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: files/cv_raunak_shrestha.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: rshrestha<at>cpdr<dot>org
+email: rshrestha{at}cpdr{dot}org
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -83,6 +83,12 @@ user_groups:
   - Principal Investigator
 ---
 
-Computational Research Scientist III, [Center for Prostate Disease Research (CPDR)](https://sites.google.com/usuhs.edu/cpdr)\
-Assistant Professor, [Department of Surgery](https://medschool.usuhs.edu/sur), [Uniformed Services University for Health Sciences(USUHS)](https://www.usuhs.edu/)\
-Adjunct Investigator, [Genitourinary Malignancies Branch (GMB)](https://ccr.cancer.gov/genitourinary-malignancies-branch), [National Cancer Institute (NCI)](https://www.cancer.gov/)
+Assistant Professor, 
+&nbsp;&nbsp;&nbsp;[Department of Surgery](https://medschool.usuhs.edu/sur), [Uniformed Services University for Health Sciences(USUHS)](https://www.usuhs.edu/)\
+Computational Research Scientist III, 
+&nbsp;&nbsp;&nbsp;[Center for Prostate Disease Research (CPDR)](https://sites.google.com/usuhs.edu/cpdr)\
+Adjunct Investigator, 
+&nbsp;&nbsp;&nbsp;[Genitourinary Malignancies Branch (GMB)](https://ccr.cancer.gov/genitourinary-malignancies-branch), [National Cancer Institute (NCI)](https://www.cancer.gov/)\\
+
+Group Leader
+&nbsp;&nbsp;&nbsp;Shrestha Lab: Computational Cancer Genomics and Data Science Research Group
