@@ -23,8 +23,9 @@ bio:
 interests:
   - Bioinformatics
   - Cancer Genomics
-  - Artificial Intelligence
+  - Machine Learning
   - Regulatory Networks
+  - Epigenomics
   - Fragmentomics
 
 education:
@@ -84,7 +85,7 @@ user_groups:
 ---
 
 Assistant Professor,<br>
-&nbsp;&nbsp;&nbsp;[Department of Surgery](https://medschool.usuhs.edu/sur), [Uniformed Services University for Health Sciences(USUHS)](https://www.usuhs.edu/)<br>
+&nbsp;&nbsp;&nbsp;[Department of Surgery](https://medschool.usuhs.edu/sur), [Uniformed Services University for Health Sciences (USUHS)](https://www.usuhs.edu/)<br>
 Computational Research Scientist III,<br>
 &nbsp;&nbsp;&nbsp;[Center for Prostate Disease Research (CPDR)](https://sites.google.com/usuhs.edu/cpdr)\
 Adjunct Investigator,<br>
