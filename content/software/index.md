@@ -1,5 +1,6 @@
 ---
 title: My Page
+date: 2025-01-01
 type: landing
 
 sections:
