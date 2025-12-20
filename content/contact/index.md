@@ -9,8 +9,7 @@ sections:
     content:
       title: Contact
       text: 
-      email: rshrestha{at}cpdr{dot}org
-      email: raunak{dot}shrestha{dot}ctr{at}usuhs{dot}edu
+      email: rshrestha{at}cpdr{dot}org , raunak{dot}shrestha{dot}ctr{at}usuhs{dot}edu
       phone: 
       address:
         street: 6720A Rockledge Drive, Suite 300
