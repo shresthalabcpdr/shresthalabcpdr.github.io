@@ -27,11 +27,11 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: @raunakms
+          name: '@raunakms'
           link: https://twitter.com/raunakms
         - icon: linkedin
           icon_pack: fab
-          name: @raunakms
+          name: '@raunakms'
           link: https://www.linkedin.com/in/raunakms/          
       #  - icon: comments
       #    icon_pack: fas
