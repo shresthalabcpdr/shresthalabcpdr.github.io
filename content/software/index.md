@@ -1,5 +1,5 @@
 ---
-title: My Page
+title: Software and Data Analytics
 date: 2025-01-02
 type: landing
 
@@ -20,6 +20,4 @@ sections:
         [Learn more](https://example.com)
     design:
       columns: "1"
-      background:
-        color: "white"
 ---
