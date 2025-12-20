@@ -83,12 +83,12 @@ user_groups:
   - Principal Investigator
 ---
 
-Assistant Professor,\ 
-&nbsp;&nbsp;&nbsp;[Department of Surgery](https://medschool.usuhs.edu/sur), [Uniformed Services University for Health Sciences(USUHS)](https://www.usuhs.edu/)\
-Computational Research Scientist III,\ 
+Assistant Professor,<br>
+&nbsp;&nbsp;&nbsp;[Department of Surgery](https://medschool.usuhs.edu/sur), [Uniformed Services University for Health Sciences(USUHS)](https://www.usuhs.edu/)<br>
+Computational Research Scientist III,<br>
 &nbsp;&nbsp;&nbsp;[Center for Prostate Disease Research (CPDR)](https://sites.google.com/usuhs.edu/cpdr)\
-Adjunct Investigator,\ 
-&nbsp;&nbsp;&nbsp;[Genitourinary Malignancies Branch (GMB)](https://ccr.cancer.gov/genitourinary-malignancies-branch), [National Cancer Institute (NCI)](https://www.cancer.gov/)\\
+Adjunct Investigator,<br>
+&nbsp;&nbsp;&nbsp;[Genitourinary Malignancies Branch (GMB)](https://ccr.cancer.gov/genitourinary-malignancies-branch), [National Cancer Institute (NCI)](https://www.cancer.gov/)<br><br>
 
 Group Leader\
 &nbsp;&nbsp;&nbsp;Shrestha Lab: Computational Cancer Genomics and Data Science Research Group
