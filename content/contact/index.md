@@ -10,6 +10,7 @@ sections:
       title: Contact
       text: 
       email: rshrestha{at}cpdr{dot}org
+        captcha: true
       phone: 
       address:
         street: 6720A Rockledge Drive, Suite 300
@@ -33,10 +34,10 @@ sections:
           icon_pack: fab
           name: '@raunakms'
           link: https://www.linkedin.com/in/raunakms/          
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+        #- icon: comments p8/
+        #  icon_pack: fas
+        #  name: Discuss on Forum
+        #  link: 'https://discourse.gohugo.io'
     
       # Automatically link email and phone or display as text?
       autolink: true
@@ -59,15 +60,15 @@ sections:
       text:
     design:
       columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
+      #background:
+      #  image: 
+      #    filename: contact.jpg
+      #    filters:
+      #      brightness: 1
+      #    parallax: false
+      #    position: center
+      #    size: cover
+      #    text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
