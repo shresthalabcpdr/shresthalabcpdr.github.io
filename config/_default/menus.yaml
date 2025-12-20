@@ -14,7 +14,7 @@ main:
     url: publications
     weight: 30
   - name: Software
-    url: contact
+    url: team
     weight: 40
   - name: News
     url: post
