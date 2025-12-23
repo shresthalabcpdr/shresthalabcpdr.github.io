@@ -61,6 +61,19 @@ sections:
       background:
         color: "gray-50"
 
+  - block: markdown
+    content:
+      title: Our Affilations
+      subtitle: 
+      text: | 
+        We are located at the **[Center for Prostate Disease Research (CPDR)](https://sites.google.com/usuhs.edu/cpdr)** of [Henry M Jackson Foundation for the Advancement of Military Medicine (HJF)](https://www.hjf.org) in Bethesda, Maryland. Our primary academic affiliation is with [Dept. of Surgery](https://medschool.usuhs.edu/sur), [Uniformed Services University of the Health Sciences (USUHS)](https://www.usuhs.edu). Our lab is a part of [Murtha Cancer Center Reseaerch Program (MCCRP)](https://medschool.usuhs.edu/sur/research/murtha-cancer-center) and [Walter Reed National Military Medical Center](https://walterreed.tricare.mil/MurthaCancerCenter). Our lab also has secondary affiliation with the [Genitourinary Malignancies Branch (GMB)](https://ccr.cancer.gov/genitourinary-malignancies-branch), [National Cancer Institute (NCI)](https://ccr.cancer.gov)
+        
+      position: top
+      color: "#000000"
+    design:
+      columns: '1'
+      background:
+        color: "gray-50"
   
   - block: markdown
     content:
