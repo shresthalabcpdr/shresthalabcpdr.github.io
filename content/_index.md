@@ -66,7 +66,9 @@ sections:
       title: Our Affilations
       subtitle: 
       text: | 
-        We are located at the **[Center for Prostate Disease Research (CPDR)](https://sites.google.com/usuhs.edu/cpdr)** of [Henry M Jackson Foundation for the Advancement of Military Medicine (HJF)](https://www.hjf.org) in Bethesda, Maryland. Our primary academic affiliation is with [Dept. of Surgery](https://medschool.usuhs.edu/sur), [Uniformed Services University of the Health Sciences (USUHS)](https://www.usuhs.edu). Our lab is a part of [Murtha Cancer Center Reseaerch Program (MCCRP)](https://medschool.usuhs.edu/sur/research/murtha-cancer-center) and [Walter Reed National Military Medical Center](https://walterreed.tricare.mil/MurthaCancerCenter). Our lab also has secondary affiliation with the [Genitourinary Malignancies Branch (GMB)](https://ccr.cancer.gov/genitourinary-malignancies-branch), [National Cancer Institute (NCI)](https://ccr.cancer.gov)
+        We are located at the **[Center for Prostate Disease Research (CPDR)](https://sites.google.com/usuhs.edu/cpdr)** under the [Henry M Jackson Foundation for the Advancement of Military Medicine (HJF)](https://www.hjf.org) in Bethesda, Maryland. Our lab is a part of [Murtha Cancer Center Reseaerch Program (MCCRP)](https://medschool.usuhs.edu/sur/research/murtha-cancer-center) and [Walter Reed National Military Medical Center (WRNMMC)](https://walterreed.tricare.mil/MurthaCancerCenter).
+        
+        Academically, we are primarily affiliated with the [Uniformed Services University of the Health Sciences (USUHS)](https://www.usuhs.edu), Dept. of Surgery](https://medschool.usuhs.edu/sur), with a secondary affiliation at the [Genitourinary Malignancies Branch (GMB)](https://ccr.cancer.gov/genitourinary-malignancies-branch), [National Cancer Institute (NCI)](https://ccr.cancer.gov).
         
       position: top
       color: "#000000"
