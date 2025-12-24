@@ -13,6 +13,7 @@ sections:
       user_groups:
           - Principal Investigator
           - Researchers
+          - Staff Scientists
           - Post Doctoral Fellows
           - Grad Students
           - Postbac
