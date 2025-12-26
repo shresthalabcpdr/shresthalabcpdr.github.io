@@ -22,9 +22,9 @@ main:
   - name: News
     url: post
     weight: 50
-  - name: Events
-    url: events
-    weight: 60
+  #- name: Events
+  #  url: events
+  #  weight: 60
   - name: Join us
     url: vacancy
     weight: 70

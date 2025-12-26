@@ -44,7 +44,7 @@ sections:
   - block: features
     content:
       title: Our Research Arms
-      text: "Our research will focus on three major avenues"
+      text: "We work on three major avenues"
       items:
         - name: "Develop"
           description: "**Algorithm Development**: Develop cutting-edge computational genomics and machine learning methods to unravel the complexities of cancer"
