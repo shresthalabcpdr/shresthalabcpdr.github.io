@@ -21,7 +21,7 @@ We work on the following three major avenues:
 - **Develop** cutting-edge computational genomics and machine learning methods to unravel the complexities of cancer
 - **Mine**, Integrate & Analyze complex multi-modal biological datasets to understand context-specific genome regulation in cancer
 - **Translate** genomic insights to meaningful clinical applications for precision oncology
-<br>
+<br><br>
 
-## Our Projects <br>
+# Our Projects <br>
 
