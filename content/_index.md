@@ -32,7 +32,7 @@ sections:
       title: |
         Shrestha Lab at CPDR
       image:
-        filename: lab_banner_welcome_2.png
+        filename: lab_wallpaper_1.png
         position: center
       text: |
         <br>
