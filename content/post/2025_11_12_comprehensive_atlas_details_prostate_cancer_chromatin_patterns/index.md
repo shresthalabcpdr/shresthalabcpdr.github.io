@@ -1,5 +1,5 @@
 ---
-title: UroToday: Comprehensive Atlas Details Prostate Cancer Chromatin Patterns
+title: Comprehensive Atlas Details Prostate Cancer Chromatin Patterns - UroToday
 date: 2025-11-12
 ---
 
@@ -7,6 +7,7 @@ Raunak Shrestha discusses a published study on chromatin accessibility in advanc
 
 <!--more-->
 
+*UroToday - GU OncToday* <br>
 Raunak Shrestha discusses a published study on chromatin accessibility in advanced prostate cancer. The research, which represents the largest collection of ATAC-seq profiles in metastatic prostate cancer to date, reveals distinct chromatin accessibility patterns across different cancer subtypes. The study identifies 203 transcription factors associated with various metastatic prostate cancer subtypes, including both well-known and novel regulators such as ZNF263. Through the integration of ATAC-seq and RNA-seq data, the research demonstrates how chromatin accessibility contributes to cancer subtype differentiation and treatment evolution. The conversation explores the potential therapeutic implications of these findings and future directions, including plans to study chromatin accessibility evolution through liquid biopsies and the development of machine learning tools for cancer phenotyping and treatment resistance prediction.
 
 
