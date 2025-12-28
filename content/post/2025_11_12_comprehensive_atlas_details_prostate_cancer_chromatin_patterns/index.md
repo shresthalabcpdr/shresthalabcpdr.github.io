@@ -1,9 +1,9 @@
 ---
-title: Comprehensive Atlas Details Prostate Cancer Chromatin Patterns - Raunak Shrestha
+title: UroToday: Comprehensive Atlas Details Prostate Cancer Chromatin Patterns
 date: 2025-11-12
 ---
 
-Raunak Shrestha discusses a published study on chromatin accessibility in advanced prostate cancer.
+Raunak Shrestha discusses a published study on chromatin accessibility in advanced prostate cancer on UroToday.
 
 <!--more-->
 
