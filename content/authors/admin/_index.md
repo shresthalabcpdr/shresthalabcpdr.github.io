@@ -32,7 +32,7 @@ education:
   courses:
     - course: Post Doctoral Fellowship
       institution: University of California San Francisco (UCSF)
-      year: 2025
+      year: 2024
     - course: PhD in Bioinformatics
       institution: University of British Columbia (UBC)
       year: 2018
