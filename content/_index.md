@@ -13,7 +13,7 @@ sections:
         align: right
         background:
           image:
-            filename: shrestha_lab_helix_dark_extended.png
+            filename: shrestha_lab_baanner_dark.png
             filters:
               brightness: 0.3
           position: right
@@ -32,7 +32,7 @@ sections:
       title: |
         Shrestha Lab at CPDR
       image:
-        filename: welcome_wallpaper.png
+        filename: home_welcome.png
         position: center
       text: |
         <br>
