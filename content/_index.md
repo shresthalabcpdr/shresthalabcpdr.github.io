@@ -13,7 +13,7 @@ sections:
         align: right
         background:
           image:
-            filename: shrestha_lab_baanner_dark.png
+            filename: shrestha_lab_banner_dark.png
             filters:
               brightness: 0.3
           position: right
