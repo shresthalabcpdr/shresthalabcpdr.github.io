@@ -4,12 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: CPDR-home
+  - name: CPDR
     url: 'https://sites.google.com/usuhs.edu/cpdr/home'
-    weight: 0
+    weight: 1
   - name: Home
     url: '#'
-    weight: 1
+    weight: 2
   - name: Research
     url: research
     weight: 10
