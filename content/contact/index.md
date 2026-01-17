@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: 
-      email: rshrestha{at}cpdr{dot}org , raunak{dot}shrestha{dot}ctr{at}usuhs{dot}edu
+      email:
       phone: 
       address:
         street: 6720A Rockledge Drive, Suite 300
@@ -27,8 +27,16 @@ sections:
       contact_links:
         - icon: envelope
           icon_pack: fas
-          name: 'rshrestha@cpdr.org'
-          link: 'mailto:rshrestha@cpdr.org'      
+          name: 'rshrestha{at}cpdr{dot}org'
+          link: 'mailto:rshrestha@cpdr.org'
+        - icon: envelope
+          icon_pack: fas
+          name: 'raunak{dot}shrestha{dot}ctr{at}usuhs{dot}edu'
+          link: 'mailto:raunak.shrestha.ctr@usuhs.edu'
+        - icon: envelope
+          icon_pack: fas
+          name: 'raunak{dot}shrestha{at}nih{dot}gov'
+          link: 'mailto:raunak.shrestha@nih.gov'                 
         - icon: twitter
           icon_pack: fab
           name: '@raunakms'
