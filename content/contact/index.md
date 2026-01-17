@@ -25,6 +25,10 @@ sections:
       office_hours:
       appointment_url: 
       contact_links:
+        - icon: envelope
+          icon_pack: fas
+          name: 'rshrestha@cpdr.org'
+          link: 'mailto:rshrestha@cpdr.org'      
         - icon: twitter
           icon_pack: fab
           name: '@raunakms'
