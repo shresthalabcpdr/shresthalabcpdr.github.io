@@ -6,7 +6,7 @@ tags:
   - Machine Learning
   - sincle-cell omics
   - spatial-omics
-date: '2025-03-01T00:00:00Z'
+date: '2026-03-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
