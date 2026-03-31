@@ -1,6 +1,6 @@
 ---
 title: Circulating Tumor DNA (ctDNA) & Fragmentomics
-summary: We to establish ctDNA fragmentomics as a robust, non-invasive approach for advancing precision oncology.
+summary: To establish ctDNA fragmentomics as a robust, non-invasive approach for advancing precision oncology.
 tags:
   - Cancer
   - Machine Learning
