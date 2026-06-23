@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Shrestha Lab at CPDR # Website name
+title: Shrestha Lab @ CPDR # Website name
 baseURL: 'https://shrestha-lab-cpdr.github.io' # Website URL
 
 ############################

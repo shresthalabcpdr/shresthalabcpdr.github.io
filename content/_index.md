@@ -30,7 +30,7 @@ sections:
   - block: hero
     content:
       title: |
-        Shrestha Lab at CPDR
+        Shrestha Lab @ CPDR
       image:
         filename: home_welcome.png
         position: center
