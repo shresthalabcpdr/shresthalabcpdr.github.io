@@ -9,6 +9,9 @@ sections:
       title: "Software and Data Analytics"
       subtitle: 
       text: |
+        ## CPDR GitHub Repository
+        - [**CPDR GitHub*](https://github.com/cpdr-lab): CPDR core projects code repository
+
         ## Software
         - [**HIT'nDRIVE**](https://github.com/sfu-compbio/hitndrive): Combinatorial optimization algorithm for cancer driver genes prioritization
         - [**cd-CAP**](https://github.com/ehodzic/cd-CAP): Combinatorial detection of conserved alteration patterns for identifying cancer subnetworks
