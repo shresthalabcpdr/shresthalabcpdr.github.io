@@ -10,7 +10,7 @@ sections:
       subtitle: 
       text: |
         ## CPDR GitHub Repository
-        - [**CPDR GitHub*](https://github.com/cpdr-lab): CPDR core projects code repository
+        - [**CPDR GitHub**](https://github.com/cpdr-lab): CPDR core projects code repository
 
         ## Software
         - [**HIT'nDRIVE**](https://github.com/sfu-compbio/hitndrive): Combinatorial optimization algorithm for cancer driver genes prioritization
